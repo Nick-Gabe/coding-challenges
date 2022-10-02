@@ -1,6 +1,6 @@
 # Coding Challenges
 
-This is a repository to store coding challenges and my solutions to them. I initially classified them as "easy/medium/hard" but this may change in the future.
+This is a repository to store coding challenges and my solutions to them.
 
 ### 🏁 Testing
 For testing the challenges, I chose using Jest, since it is relly good at unitary tests.

@@ -1,4 +1,4 @@
-const romanToInt = require('../src/easy/romanToInt');
+const romanToInt = require('../src/romanToInt');
 
 test('recognizes simple numbers', () => {
   expect(romanToInt('I')).toBe(1)
